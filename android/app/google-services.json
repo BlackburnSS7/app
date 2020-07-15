@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639628949553",
+    "firebase_url": "https://firstapp-532e4.firebaseio.com",
+    "project_id": "firstapp-532e4",
+    "storage_bucket": "firstapp-532e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639628949553:android:6d776e40502c9f7f863d10",
+        "android_client_info": {
+          "package_name": "com.khaml.firtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639628949553-lp7inva4j8so23ejo9dsrk64jj88pa66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ_TxBLixwpkAdPGjujnch7I81n4pTPWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639628949553-lp7inva4j8so23ejo9dsrk64jj88pa66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639628949553-qah169586al73su3q17p2cd7ghub5a8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.khaml.firstapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
